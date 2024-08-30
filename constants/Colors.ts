@@ -24,3 +24,25 @@ export const Colors = {
     tabIconSelected: tintColorDark,
   },
 };
+
+export const WHITE = '#ffffff';
+export const BLACK = '#000000';
+
+export const PRIMARY = {
+  LIGHT:'#FDBA74',
+  DEFAULT : '#ff6b6b', //업데이트
+  DARK:'#ff3333',  //업데이트
+
+}
+
+export const GRAY = {
+  DARK:'#6b7280',
+  LIGHT: '#e5e7eb',
+  DEFAULT: '#d1d5db',
+}
+
+export const DANGER = {
+  DEFAULT: '#EF4444',
+  DARK: '#B91C1C',
+  LIGHT: '#FCA5A5',
+}
